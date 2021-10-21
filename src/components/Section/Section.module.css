@@ -1,0 +1,27 @@
+.Section {
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  border: 2px solid rgb(238, 255, 0);
+  border-radius: 8px;
+  color: rgb(2, 2, 2);
+  box-shadow: 1px 4px 6px rgba(46, 2, 2, 0.16), 0px 4px 4px rgba(0, 0, 0, 0.06),
+  0px 1px 1px rgba(223, 25, 25, 0.12);
+  font-family: 'Birthstone', cursive;
+  font-weight: 700;
+  font-size: 42px;
+}
+
+
+.Section:first-child {
+  margin-bottom: 15px;
+}
+
+.Title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 50px;
+}
